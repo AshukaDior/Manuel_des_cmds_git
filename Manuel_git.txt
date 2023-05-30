@@ -1,0 +1,11 @@
+Tout d'abord ce deplacer dans le dossier concerne
+"# Projet_Academique_Gestion_Stock_medicament"
+git init //Pour initier un depot git
+git add nomfichier //Ajouter les differents fichiers
+on peut aussi utiliser git add . pour ne pas a ajouter fichier par fichier.
+git commit -m "first commit"
+git branch -M main //pour nommer la branche
+git remote add origin https://github.com/AshukaDior/Projet_Academique_Gestion_Stock_medicament.git //redirection vers le repertoire cree.
+git push -u origin main
+Ensuite 
+git push pour ajouter un nouveau dossier a ceux existant.
